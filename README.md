@@ -173,7 +173,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - **Inspiration**: This project was inspired by the need for a simple, daily dose of inspiration. 🌟
 
 ---
-
-## 🌟 Show Your Support
-
-If you find this project useful, please give it a ⭐️ on [GitHub](https://github.com/MuntasirSZN/getquotes)!
